@@ -1,0 +1,173 @@
+[
+  {
+    "id": "O001",
+    "patient_id": "P001",
+    "encounter_id": "E001",
+    "date": "2025-10-14",
+    "name": "HbA1c",
+    "value": 8.2,
+    "unit": "%"
+  },
+  {
+    "id": "O002",
+    "patient_id": "P001",
+    "encounter_id": "E001",
+    "date": "2025-10-14",
+    "name": "Fasting glucose",
+    "value": 168,
+    "unit": "mg/dL"
+  },
+  {
+    "id": "O003",
+    "patient_id": "P001",
+    "encounter_id": "E002",
+    "date": "2025-12-02",
+    "name": "Glucose",
+    "value": 412,
+    "unit": "mg/dL"
+  },
+  {
+    "id": "O004",
+    "patient_id": "P001",
+    "encounter_id": "E002",
+    "date": "2025-12-02",
+    "name": "HbA1c",
+    "value": 8.6,
+    "unit": "%"
+  },
+  {
+    "id": "O005",
+    "patient_id": "P001",
+    "encounter_id": "E003",
+    "date": "2026-01-20",
+    "name": "HbA1c",
+    "value": 7.8,
+    "unit": "%"
+  },
+  {
+    "id": "O006",
+    "patient_id": "P001",
+    "encounter_id": "E003",
+    "date": "2026-01-20",
+    "name": "Fasting glucose",
+    "value": 141,
+    "unit": "mg/dL"
+  },
+  {
+    "id": "O007",
+    "patient_id": "P001",
+    "encounter_id": "E004",
+    "date": "2026-04-15",
+    "name": "HbA1c",
+    "value": 7.4,
+    "unit": "%"
+  },
+  {
+    "id": "O008",
+    "patient_id": "P001",
+    "encounter_id": "E004",
+    "date": "2026-04-15",
+    "name": "LDL cholesterol",
+    "value": 96,
+    "unit": "mg/dL"
+  },
+  {
+    "id": "O009",
+    "patient_id": "P001",
+    "encounter_id": "E004",
+    "date": "2026-04-15",
+    "name": "Systolic blood pressure",
+    "value": 138,
+    "unit": "mmHg"
+  },
+  {
+    "id": "O010",
+    "patient_id": "P001",
+    "encounter_id": "E005",
+    "date": "2026-07-22",
+    "name": "HbA1c",
+    "value": 7.1,
+    "unit": "%"
+  },
+  {
+    "id": "O011",
+    "patient_id": "P001",
+    "encounter_id": "E005",
+    "date": "2026-07-22",
+    "name": "Fasting glucose",
+    "value": 124,
+    "unit": "mg/dL"
+  },
+  {
+    "id": "O012",
+    "patient_id": "P001",
+    "encounter_id": "E005",
+    "date": "2026-07-22",
+    "name": "Creatinine",
+    "value": 0.9,
+    "unit": "mg/dL"
+  },
+  {
+    "id": "O013",
+    "patient_id": "P001",
+    "encounter_id": "E006",
+    "date": "2026-09-18",
+    "name": "Systolic blood pressure",
+    "value": 128,
+    "unit": "mmHg"
+  },
+  {
+    "id": "O101",
+    "patient_id": "P002",
+    "encounter_id": "E101",
+    "date": "2025-11-05",
+    "name": "eGFR",
+    "value": 46,
+    "unit": "mL/min/1.73m2"
+  },
+  {
+    "id": "O102",
+    "patient_id": "P002",
+    "encounter_id": "E101",
+    "date": "2025-11-05",
+    "name": "Creatinine",
+    "value": 1.7,
+    "unit": "mg/dL"
+  },
+  {
+    "id": "O103",
+    "patient_id": "P002",
+    "encounter_id": "E102",
+    "date": "2026-03-10",
+    "name": "eGFR",
+    "value": 43,
+    "unit": "mL/min/1.73m2"
+  },
+  {
+    "id": "O104",
+    "patient_id": "P002",
+    "encounter_id": "E102",
+    "date": "2026-03-10",
+    "name": "Hemoglobin",
+    "value": 10.2,
+    "unit": "g/dL"
+  },
+  {
+    "id": "O105",
+    "patient_id": "P002",
+    "encounter_id": "E103",
+    "date": "2026-08-25",
+    "name": "eGFR",
+    "value": 44,
+    "unit": "mL/min/1.73m2"
+  },
+  {
+    "id": "O106",
+    "patient_id": "P002",
+    "encounter_id": "E103",
+    "date": "2026-08-25",
+    "name": "Hemoglobin",
+    "value": 11.0,
+    "unit": "g/dL"
+  }
+]

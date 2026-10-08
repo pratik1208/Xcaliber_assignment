@@ -1,0 +1,30 @@
+[
+  {
+    "id": "PR001",
+    "patient_id": "P001",
+    "encounter_id": "E002",
+    "date": "2025-12-02",
+    "display": "Intravenous fluid resuscitation"
+  },
+  {
+    "id": "PR002",
+    "patient_id": "P001",
+    "encounter_id": "E003",
+    "date": "2026-01-20",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR003",
+    "patient_id": "P001",
+    "encounter_id": "E004",
+    "date": "2026-04-15",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR101",
+    "patient_id": "P002",
+    "encounter_id": "E102",
+    "date": "2026-03-10",
+    "display": "Renal ultrasound"
+  }
+]

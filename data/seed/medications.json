@@ -1,0 +1,72 @@
+[
+  {
+    "id": "M001",
+    "patient_id": "P001",
+    "display": "Metformin",
+    "dose": "1000 mg twice daily",
+    "status": "active",
+    "start_date": "2023-02-10",
+    "end_date": null,
+    "encounter_id": "E001"
+  },
+  {
+    "id": "M002",
+    "patient_id": "P001",
+    "display": "Lisinopril",
+    "dose": "10 mg daily",
+    "status": "active",
+    "start_date": "2021-06-01",
+    "end_date": null,
+    "encounter_id": "E004"
+  },
+  {
+    "id": "M003",
+    "patient_id": "P001",
+    "display": "Atorvastatin",
+    "dose": "20 mg daily",
+    "status": "active",
+    "start_date": "2022-09-15",
+    "end_date": null,
+    "encounter_id": "E004"
+  },
+  {
+    "id": "M004",
+    "patient_id": "P001",
+    "display": "Ibuprofen",
+    "dose": "400 mg as needed",
+    "status": "stopped",
+    "start_date": "2025-06-01",
+    "end_date": "2026-01-20",
+    "encounter_id": "E003"
+  },
+  {
+    "id": "M101",
+    "patient_id": "P002",
+    "display": "Amlodipine",
+    "dose": "5 mg daily",
+    "status": "active",
+    "start_date": "2018-05-12",
+    "end_date": null,
+    "encounter_id": "E101"
+  },
+  {
+    "id": "M102",
+    "patient_id": "P002",
+    "display": "Ferrous sulfate",
+    "dose": "325 mg daily",
+    "status": "active",
+    "start_date": "2026-03-10",
+    "end_date": null,
+    "encounter_id": "E102"
+  },
+  {
+    "id": "M103",
+    "patient_id": "P002",
+    "display": "Naproxen",
+    "dose": "500 mg twice daily",
+    "status": "stopped",
+    "start_date": "2024-02-01",
+    "end_date": "2025-11-05",
+    "encounter_id": "E101"
+  }
+]
