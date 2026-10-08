@@ -121,3 +121,16 @@ The prototype should demonstrate that a healthcare provider can interact with a 
 The core value proposition is:
 
 > **"Ask questions about the patient. Get a concise answer, understand the reasoning, and verify it against the underlying clinical evidence."**
+
+## Technology Stack
+
+- **Frontend:** Streamlit — patient dashboard and natural-language chat interface.
+- **Backend:** FastAPI — REST APIs and application logic.
+- **Agent Framework:** LangGraph — query routing and agent orchestration.
+- **LLM:** OpenAI / Claude — question understanding and response generation.
+- **Database:** PostgreSQL — structured patient, encounter, medication, and observation data.
+- **Vector Database:** ChromaDB — semantic search over clinical notes and documents.
+- **Embeddings:** Sentence Transformers / BGE — clinical document embeddings.
+- **Data Processing:** Python + Pandas — data ingestion, transformation, and preprocessing.
+- **Healthcare Data Model:** Simplified FHIR — Patient, Encounter, Condition, Observation, Medication, and Procedure resources.
+- **Deployment:** Docker — containerization and reproducible deployment.
