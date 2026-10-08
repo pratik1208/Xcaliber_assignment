@@ -1,5 +1,6 @@
 """ChromaDB collection of clinical notes, embedded with a BGE sentence-transformer."""
 import chromadb
+from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 
 from app.config import CHROMA_PATH, EMBED_MODEL
@@ -12,7 +13,7 @@ NAME = "clinical_notes"
 def _get_client():
     global _client
     if _client is None:
-        _client = chromadb.PersistentClient(path=CHROMA_PATH)
+        _client = chromadb.PersistentClient(path=CHROMA_PATH, settings=Settings(anonymized_telemetry=False))
     return _client
 
 

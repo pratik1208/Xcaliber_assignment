@@ -1,17 +1,17 @@
 # Patient 360 — Clinical Intelligence Agent (demo)
 
 Ask natural-language questions about a patient's record; get a concise answer plus the cited records.
-Stack: Streamlit · FastAPI · LangGraph · Claude/OpenAI · PostgreSQL · ChromaDB (BGE) · Pandas. Synthetic data only.
+Stack: Streamlit · FastAPI · LangGraph · OpenAI (GPT-4o) · PostgreSQL · ChromaDB (BGE) · Pandas. Synthetic data only.
 
 ## Run with Docker
-    cp .env.example .env   # add ANTHROPIC_API_KEY
+    cp .env.example .env   # add OPENAI_API_KEY
     docker compose up --build      # UI: http://localhost:8501  API: http://localhost:8000/docs
 
 ## Run locally (no Docker)
     uv venv --python 3.12 .venv && uv pip install -r requirements.txt
     createdb patient360                       # local Postgres; override with DATABASE_URL
     .venv/bin/python scripts/generate_data.py && .venv/bin/python scripts/ingest.py
-    cp .env.example .env                      # add ANTHROPIC_API_KEY
+    cp .env.example .env                      # add OPENAI_API_KEY
     .venv/bin/uvicorn app.api.main:app --port 8000 &
     .venv/bin/streamlit run app/ui/streamlit_app.py
     .venv/bin/python -m pytest tests          # offline tests (LLM is faked)
