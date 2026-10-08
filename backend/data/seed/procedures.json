@@ -1,0 +1,681 @@
+[
+  {
+    "id": "PR001",
+    "patient_id": "P001",
+    "encounter_id": "E002",
+    "date": "2025-12-02",
+    "display": "Intravenous fluid resuscitation"
+  },
+  {
+    "id": "PR002",
+    "patient_id": "P001",
+    "encounter_id": "E003",
+    "date": "2026-01-20",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR003",
+    "patient_id": "P001",
+    "encounter_id": "E004",
+    "date": "2026-04-15",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR101",
+    "patient_id": "P002",
+    "encounter_id": "E102",
+    "date": "2026-03-10",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2001",
+    "patient_id": "P003",
+    "encounter_id": "E2001",
+    "date": "2025-10-19",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2002",
+    "patient_id": "P005",
+    "encounter_id": "E2013",
+    "date": "2026-09-16",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2003",
+    "patient_id": "P007",
+    "encounter_id": "E2019",
+    "date": "2026-09-09",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2004",
+    "patient_id": "P007",
+    "encounter_id": "E2019",
+    "date": "2026-09-09",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2005",
+    "patient_id": "P010",
+    "encounter_id": "E2031",
+    "date": "2025-12-19",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2006",
+    "patient_id": "P011",
+    "encounter_id": "E2040",
+    "date": "2026-09-25",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2007",
+    "patient_id": "P012",
+    "encounter_id": "E2043",
+    "date": "2026-09-08",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2008",
+    "patient_id": "P018",
+    "encounter_id": "E2071",
+    "date": "2026-03-02",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2009",
+    "patient_id": "P018",
+    "encounter_id": "E2071",
+    "date": "2026-03-02",
+    "display": "Transthoracic echocardiogram"
+  },
+  {
+    "id": "PR2010",
+    "patient_id": "P019",
+    "encounter_id": "E2077",
+    "date": "2026-06-11",
+    "display": "Spirometry"
+  },
+  {
+    "id": "PR2011",
+    "patient_id": "P019",
+    "encounter_id": "E2078",
+    "date": "2026-09-06",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2012",
+    "patient_id": "P020",
+    "encounter_id": "E2081",
+    "date": "2026-04-30",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2013",
+    "patient_id": "P022",
+    "encounter_id": "E2091",
+    "date": "2026-05-04",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2014",
+    "patient_id": "P022",
+    "encounter_id": "E2091",
+    "date": "2026-05-04",
+    "display": "Spirometry"
+  },
+  {
+    "id": "PR2015",
+    "patient_id": "P023",
+    "encounter_id": "E2098",
+    "date": "2026-06-04",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2016",
+    "patient_id": "P023",
+    "encounter_id": "E2099",
+    "date": "2026-09-18",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2017",
+    "patient_id": "P026",
+    "encounter_id": "E2112",
+    "date": "2025-08-28",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2018",
+    "patient_id": "P028",
+    "encounter_id": "E2123",
+    "date": "2026-10-02",
+    "display": "Spirometry"
+  },
+  {
+    "id": "PR2019",
+    "patient_id": "P030",
+    "encounter_id": "E2130",
+    "date": "2026-09-15",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2020",
+    "patient_id": "P031",
+    "encounter_id": "E2133",
+    "date": "2026-09-16",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2021",
+    "patient_id": "P031",
+    "encounter_id": "E2131",
+    "date": "2025-11-03",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2022",
+    "patient_id": "P032",
+    "encounter_id": "E2135",
+    "date": "2026-03-30",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2023",
+    "patient_id": "P033",
+    "encounter_id": "E2137",
+    "date": "2025-10-26",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2024",
+    "patient_id": "P035",
+    "encounter_id": "E2147",
+    "date": "2026-04-18",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2025",
+    "patient_id": "P035",
+    "encounter_id": "E2146",
+    "date": "2026-02-04",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2026",
+    "patient_id": "P036",
+    "encounter_id": "E2153",
+    "date": "2026-05-10",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2027",
+    "patient_id": "P038",
+    "encounter_id": "E2163",
+    "date": "2026-10-06",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2028",
+    "patient_id": "P038",
+    "encounter_id": "E2163",
+    "date": "2026-10-06",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2029",
+    "patient_id": "P041",
+    "encounter_id": "E2175",
+    "date": "2026-07-08",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2030",
+    "patient_id": "P041",
+    "encounter_id": "E2173",
+    "date": "2026-02-23",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2031",
+    "patient_id": "P042",
+    "encounter_id": "E2182",
+    "date": "2026-09-06",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2032",
+    "patient_id": "P042",
+    "encounter_id": "E2180",
+    "date": "2026-05-28",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2033",
+    "patient_id": "P045",
+    "encounter_id": "E2193",
+    "date": "2026-03-28",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2034",
+    "patient_id": "P048",
+    "encounter_id": "E2209",
+    "date": "2026-10-08",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2035",
+    "patient_id": "P050",
+    "encounter_id": "E2216",
+    "date": "2026-01-18",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2036",
+    "patient_id": "P050",
+    "encounter_id": "E2220",
+    "date": "2026-07-31",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2037",
+    "patient_id": "P052",
+    "encounter_id": "E2225",
+    "date": "2025-11-10",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2038",
+    "patient_id": "P054",
+    "encounter_id": "E2234",
+    "date": "2026-05-18",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2039",
+    "patient_id": "P054",
+    "encounter_id": "E2232",
+    "date": "2025-09-16",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2040",
+    "patient_id": "P055",
+    "encounter_id": "E2238",
+    "date": "2026-02-07",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2041",
+    "patient_id": "P056",
+    "encounter_id": "E2246",
+    "date": "2026-08-05",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2042",
+    "patient_id": "P056",
+    "encounter_id": "E2245",
+    "date": "2026-06-29",
+    "display": "Transthoracic echocardiogram"
+  },
+  {
+    "id": "PR2043",
+    "patient_id": "P058",
+    "encounter_id": "E2252",
+    "date": "2026-03-03",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2044",
+    "patient_id": "P058",
+    "encounter_id": "E2252",
+    "date": "2026-03-03",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2045",
+    "patient_id": "P061",
+    "encounter_id": "E2267",
+    "date": "2026-09-26",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2046",
+    "patient_id": "P062",
+    "encounter_id": "E2271",
+    "date": "2026-04-28",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2047",
+    "patient_id": "P062",
+    "encounter_id": "E2272",
+    "date": "2026-07-16",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2048",
+    "patient_id": "P063",
+    "encounter_id": "E2275",
+    "date": "2026-03-29",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2049",
+    "patient_id": "P063",
+    "encounter_id": "E2275",
+    "date": "2026-03-29",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2050",
+    "patient_id": "P065",
+    "encounter_id": "E2280",
+    "date": "2026-01-14",
+    "display": "Spirometry"
+  },
+  {
+    "id": "PR2051",
+    "patient_id": "P066",
+    "encounter_id": "E2287",
+    "date": "2026-09-30",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2052",
+    "patient_id": "P066",
+    "encounter_id": "E2287",
+    "date": "2026-09-30",
+    "display": "Transthoracic echocardiogram"
+  },
+  {
+    "id": "PR2053",
+    "patient_id": "P070",
+    "encounter_id": "E2300",
+    "date": "2026-05-31",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2054",
+    "patient_id": "P070",
+    "encounter_id": "E2300",
+    "date": "2026-05-31",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2055",
+    "patient_id": "P071",
+    "encounter_id": "E2304",
+    "date": "2026-06-23",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2056",
+    "patient_id": "P072",
+    "encounter_id": "E2309",
+    "date": "2026-10-01",
+    "display": "Spirometry"
+  },
+  {
+    "id": "PR2057",
+    "patient_id": "P073",
+    "encounter_id": "E2313",
+    "date": "2026-09-09",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2058",
+    "patient_id": "P076",
+    "encounter_id": "E2325",
+    "date": "2026-09-12",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2059",
+    "patient_id": "P079",
+    "encounter_id": "E2338",
+    "date": "2025-12-10",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2060",
+    "patient_id": "P081",
+    "encounter_id": "E2350",
+    "date": "2026-09-21",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2061",
+    "patient_id": "P081",
+    "encounter_id": "E2349",
+    "date": "2026-05-02",
+    "display": "Spirometry"
+  },
+  {
+    "id": "PR2062",
+    "patient_id": "P083",
+    "encounter_id": "E2356",
+    "date": "2025-11-07",
+    "display": "Transthoracic echocardiogram"
+  },
+  {
+    "id": "PR2063",
+    "patient_id": "P083",
+    "encounter_id": "E2358",
+    "date": "2026-09-23",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2064",
+    "patient_id": "P085",
+    "encounter_id": "E2365",
+    "date": "2026-06-19",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2065",
+    "patient_id": "P085",
+    "encounter_id": "E2366",
+    "date": "2026-07-30",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2066",
+    "patient_id": "P088",
+    "encounter_id": "E2378",
+    "date": "2026-07-07",
+    "display": "Transthoracic echocardiogram"
+  },
+  {
+    "id": "PR2067",
+    "patient_id": "P089",
+    "encounter_id": "E2381",
+    "date": "2026-05-06",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2068",
+    "patient_id": "P089",
+    "encounter_id": "E2380",
+    "date": "2026-03-07",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2069",
+    "patient_id": "P090",
+    "encounter_id": "E2387",
+    "date": "2026-07-28",
+    "display": "Spirometry"
+  },
+  {
+    "id": "PR2070",
+    "patient_id": "P091",
+    "encounter_id": "E2390",
+    "date": "2026-01-10",
+    "display": "Spirometry"
+  },
+  {
+    "id": "PR2071",
+    "patient_id": "P091",
+    "encounter_id": "E2391",
+    "date": "2026-04-06",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2072",
+    "patient_id": "P092",
+    "encounter_id": "E2398",
+    "date": "2026-07-17",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2073",
+    "patient_id": "P093",
+    "encounter_id": "E2405",
+    "date": "2026-09-23",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2074",
+    "patient_id": "P093",
+    "encounter_id": "E2404",
+    "date": "2026-07-19",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2075",
+    "patient_id": "P095",
+    "encounter_id": "E2412",
+    "date": "2026-10-01",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2076",
+    "patient_id": "P097",
+    "encounter_id": "E2420",
+    "date": "2026-09-29",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2077",
+    "patient_id": "P098",
+    "encounter_id": "E2421",
+    "date": "2025-10-02",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2078",
+    "patient_id": "P099",
+    "encounter_id": "E2429",
+    "date": "2026-08-02",
+    "display": "Comprehensive diabetic foot exam"
+  },
+  {
+    "id": "PR2079",
+    "patient_id": "P100",
+    "encounter_id": "E2431",
+    "date": "2025-11-27",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2080",
+    "patient_id": "P102",
+    "encounter_id": "E2440",
+    "date": "2026-03-25",
+    "display": "Spirometry"
+  },
+  {
+    "id": "PR2081",
+    "patient_id": "P105",
+    "encounter_id": "E2454",
+    "date": "2026-09-24",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2082",
+    "patient_id": "P109",
+    "encounter_id": "E2472",
+    "date": "2026-07-12",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2083",
+    "patient_id": "P112",
+    "encounter_id": "E2484",
+    "date": "2026-03-29",
+    "display": "Transthoracic echocardiogram"
+  },
+  {
+    "id": "PR2084",
+    "patient_id": "P113",
+    "encounter_id": "E2488",
+    "date": "2025-10-11",
+    "display": "Dilated retinal eye exam"
+  },
+  {
+    "id": "PR2085",
+    "patient_id": "P113",
+    "encounter_id": "E2488",
+    "date": "2025-10-11",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2086",
+    "patient_id": "P114",
+    "encounter_id": "E2496",
+    "date": "2026-09-09",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2087",
+    "patient_id": "P114",
+    "encounter_id": "E2496",
+    "date": "2026-09-09",
+    "display": "Transthoracic echocardiogram"
+  },
+  {
+    "id": "PR2088",
+    "patient_id": "P115",
+    "encounter_id": "E2502",
+    "date": "2026-09-23",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2089",
+    "patient_id": "P116",
+    "encounter_id": "E2506",
+    "date": "2026-08-12",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2090",
+    "patient_id": "P117",
+    "encounter_id": "E2510",
+    "date": "2026-09-15",
+    "display": "Renal ultrasound"
+  },
+  {
+    "id": "PR2091",
+    "patient_id": "P117",
+    "encounter_id": "E2509",
+    "date": "2026-03-03",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2092",
+    "patient_id": "P118",
+    "encounter_id": "E2511",
+    "date": "2025-10-25",
+    "display": "12-lead electrocardiogram"
+  },
+  {
+    "id": "PR2093",
+    "patient_id": "P119",
+    "encounter_id": "E2518",
+    "date": "2026-06-10",
+    "display": "Renal ultrasound"
+  }
+]

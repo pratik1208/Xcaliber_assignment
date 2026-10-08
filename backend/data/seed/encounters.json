@@ -1,0 +1,4250 @@
+[
+  {
+    "id": "E001",
+    "patient_id": "P001",
+    "date": "2025-10-14",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E002",
+    "patient_id": "P001",
+    "date": "2025-12-02",
+    "type": "emergency",
+    "reason": "Hyperglycemia, polyuria and fatigue",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E003",
+    "patient_id": "P001",
+    "date": "2026-01-20",
+    "type": "outpatient",
+    "reason": "Post-ER diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E004",
+    "patient_id": "P001",
+    "date": "2026-04-15",
+    "type": "outpatient",
+    "reason": "Diabetes and hypertension review",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E005",
+    "patient_id": "P001",
+    "date": "2026-07-22",
+    "type": "outpatient",
+    "reason": "Diabetes quarterly review",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E006",
+    "patient_id": "P001",
+    "date": "2026-09-18",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E101",
+    "patient_id": "P002",
+    "date": "2025-11-05",
+    "type": "outpatient",
+    "reason": "CKD stage 3 monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E102",
+    "patient_id": "P002",
+    "date": "2026-03-10",
+    "type": "outpatient",
+    "reason": "CKD follow-up, anemia work-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E103",
+    "patient_id": "P002",
+    "date": "2026-08-25",
+    "type": "outpatient",
+    "reason": "CKD follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2001",
+    "patient_id": "P003",
+    "date": "2025-10-19",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2002",
+    "patient_id": "P003",
+    "date": "2026-04-02",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2003",
+    "patient_id": "P003",
+    "date": "2026-09-16",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2004",
+    "patient_id": "P004",
+    "date": "2025-11-26",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2005",
+    "patient_id": "P004",
+    "date": "2026-03-11",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2006",
+    "patient_id": "P004",
+    "date": "2026-06-19",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2007",
+    "patient_id": "P004",
+    "date": "2026-09-24",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2008",
+    "patient_id": "P005",
+    "date": "2026-02-13",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2009",
+    "patient_id": "P005",
+    "date": "2026-03-26",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2010",
+    "patient_id": "P005",
+    "date": "2026-05-07",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2011",
+    "patient_id": "P005",
+    "date": "2026-06-24",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2012",
+    "patient_id": "P005",
+    "date": "2026-07-27",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2013",
+    "patient_id": "P005",
+    "date": "2026-09-16",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2014",
+    "patient_id": "P006",
+    "date": "2025-10-27",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2015",
+    "patient_id": "P006",
+    "date": "2026-04-04",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2016",
+    "patient_id": "P006",
+    "date": "2026-09-19",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2017",
+    "patient_id": "P007",
+    "date": "2026-03-02",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2018",
+    "patient_id": "P007",
+    "date": "2026-05-30",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2019",
+    "patient_id": "P007",
+    "date": "2026-09-09",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2020",
+    "patient_id": "P008",
+    "date": "2026-03-18",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2021",
+    "patient_id": "P008",
+    "date": "2026-04-20",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2022",
+    "patient_id": "P008",
+    "date": "2026-06-04",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2023",
+    "patient_id": "P008",
+    "date": "2026-07-11",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2024",
+    "patient_id": "P008",
+    "date": "2026-08-27",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2025",
+    "patient_id": "P008",
+    "date": "2026-10-05",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2026",
+    "patient_id": "P009",
+    "date": "2026-01-03",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2027",
+    "patient_id": "P009",
+    "date": "2026-04-04",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2028",
+    "patient_id": "P009",
+    "date": "2026-07-02",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2029",
+    "patient_id": "P009",
+    "date": "2026-09-28",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2030",
+    "patient_id": "P010",
+    "date": "2025-09-22",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2031",
+    "patient_id": "P010",
+    "date": "2025-12-19",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2032",
+    "patient_id": "P010",
+    "date": "2026-03-21",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2033",
+    "patient_id": "P010",
+    "date": "2026-07-02",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2034",
+    "patient_id": "P010",
+    "date": "2026-10-01",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2035",
+    "patient_id": "P011",
+    "date": "2026-03-11",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2036",
+    "patient_id": "P011",
+    "date": "2026-04-17",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2037",
+    "patient_id": "P011",
+    "date": "2026-05-29",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2038",
+    "patient_id": "P011",
+    "date": "2026-07-04",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2039",
+    "patient_id": "P011",
+    "date": "2026-08-10",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2040",
+    "patient_id": "P011",
+    "date": "2026-09-25",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2041",
+    "patient_id": "P012",
+    "date": "2025-08-14",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2042",
+    "patient_id": "P012",
+    "date": "2026-03-03",
+    "type": "emergency",
+    "reason": "Hypertensive urgency with headache",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2043",
+    "patient_id": "P012",
+    "date": "2026-09-08",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2044",
+    "patient_id": "P013",
+    "date": "2025-10-12",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2045",
+    "patient_id": "P013",
+    "date": "2025-12-16",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2046",
+    "patient_id": "P013",
+    "date": "2026-02-23",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2047",
+    "patient_id": "P013",
+    "date": "2026-04-30",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2048",
+    "patient_id": "P013",
+    "date": "2026-07-01",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2049",
+    "patient_id": "P013",
+    "date": "2026-09-16",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2050",
+    "patient_id": "P014",
+    "date": "2025-08-21",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2051",
+    "patient_id": "P014",
+    "date": "2025-11-11",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2052",
+    "patient_id": "P014",
+    "date": "2026-01-30",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2053",
+    "patient_id": "P014",
+    "date": "2026-04-16",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2054",
+    "patient_id": "P014",
+    "date": "2026-07-09",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2055",
+    "patient_id": "P014",
+    "date": "2026-09-24",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2056",
+    "patient_id": "P015",
+    "date": "2025-10-20",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2057",
+    "patient_id": "P015",
+    "date": "2026-02-08",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2058",
+    "patient_id": "P015",
+    "date": "2026-05-21",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2059",
+    "patient_id": "P015",
+    "date": "2026-09-21",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2060",
+    "patient_id": "P016",
+    "date": "2025-10-09",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2061",
+    "patient_id": "P016",
+    "date": "2026-01-05",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2062",
+    "patient_id": "P016",
+    "date": "2026-03-25",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2063",
+    "patient_id": "P016",
+    "date": "2026-06-17",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2064",
+    "patient_id": "P016",
+    "date": "2026-09-09",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2065",
+    "patient_id": "P017",
+    "date": "2025-09-12",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2066",
+    "patient_id": "P017",
+    "date": "2025-11-30",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2067",
+    "patient_id": "P017",
+    "date": "2026-02-13",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2068",
+    "patient_id": "P017",
+    "date": "2026-05-04",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2069",
+    "patient_id": "P017",
+    "date": "2026-07-24",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2070",
+    "patient_id": "P017",
+    "date": "2026-10-01",
+    "type": "emergency",
+    "reason": "Acute asthma exacerbation with wheezing",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2071",
+    "patient_id": "P018",
+    "date": "2026-03-02",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2072",
+    "patient_id": "P018",
+    "date": "2026-06-16",
+    "type": "emergency",
+    "reason": "Acute decompensated heart failure with dyspnea",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2073",
+    "patient_id": "P018",
+    "date": "2026-09-28",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2074",
+    "patient_id": "P019",
+    "date": "2025-08-28",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2075",
+    "patient_id": "P019",
+    "date": "2025-11-30",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2076",
+    "patient_id": "P019",
+    "date": "2026-03-06",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2077",
+    "patient_id": "P019",
+    "date": "2026-06-11",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2078",
+    "patient_id": "P019",
+    "date": "2026-09-06",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2079",
+    "patient_id": "P020",
+    "date": "2025-12-13",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2080",
+    "patient_id": "P020",
+    "date": "2026-02-27",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2081",
+    "patient_id": "P020",
+    "date": "2026-04-30",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2082",
+    "patient_id": "P020",
+    "date": "2026-07-11",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2083",
+    "patient_id": "P020",
+    "date": "2026-09-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2084",
+    "patient_id": "P021",
+    "date": "2026-02-01",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2085",
+    "patient_id": "P021",
+    "date": "2026-03-21",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2086",
+    "patient_id": "P021",
+    "date": "2026-04-27",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2087",
+    "patient_id": "P021",
+    "date": "2026-06-10",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2088",
+    "patient_id": "P021",
+    "date": "2026-07-29",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2089",
+    "patient_id": "P021",
+    "date": "2026-09-21",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2090",
+    "patient_id": "P022",
+    "date": "2026-03-27",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2091",
+    "patient_id": "P022",
+    "date": "2026-05-04",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2092",
+    "patient_id": "P022",
+    "date": "2026-06-07",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2093",
+    "patient_id": "P022",
+    "date": "2026-07-11",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2094",
+    "patient_id": "P022",
+    "date": "2026-08-24",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2095",
+    "patient_id": "P022",
+    "date": "2026-09-25",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2096",
+    "patient_id": "P023",
+    "date": "2025-11-18",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2097",
+    "patient_id": "P023",
+    "date": "2026-02-28",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2098",
+    "patient_id": "P023",
+    "date": "2026-06-04",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2099",
+    "patient_id": "P023",
+    "date": "2026-09-18",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2100",
+    "patient_id": "P024",
+    "date": "2026-02-12",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2101",
+    "patient_id": "P024",
+    "date": "2026-04-07",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2102",
+    "patient_id": "P024",
+    "date": "2026-05-18",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2103",
+    "patient_id": "P024",
+    "date": "2026-06-29",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2104",
+    "patient_id": "P024",
+    "date": "2026-08-16",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2105",
+    "patient_id": "P024",
+    "date": "2026-09-30",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2106",
+    "patient_id": "P025",
+    "date": "2025-12-05",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2107",
+    "patient_id": "P025",
+    "date": "2026-02-03",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2108",
+    "patient_id": "P025",
+    "date": "2026-04-03",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2109",
+    "patient_id": "P025",
+    "date": "2026-05-29",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2110",
+    "patient_id": "P025",
+    "date": "2026-07-25",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2111",
+    "patient_id": "P025",
+    "date": "2026-09-26",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2112",
+    "patient_id": "P026",
+    "date": "2025-08-28",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2113",
+    "patient_id": "P026",
+    "date": "2025-12-31",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2114",
+    "patient_id": "P026",
+    "date": "2026-05-18",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2115",
+    "patient_id": "P026",
+    "date": "2026-09-18",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2116",
+    "patient_id": "P027",
+    "date": "2025-12-23",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2117",
+    "patient_id": "P027",
+    "date": "2026-05-02",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2118",
+    "patient_id": "P027",
+    "date": "2026-09-11",
+    "type": "emergency",
+    "reason": "Acute decompensated heart failure with dyspnea",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2119",
+    "patient_id": "P028",
+    "date": "2025-09-10",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2120",
+    "patient_id": "P028",
+    "date": "2025-12-07",
+    "type": "emergency",
+    "reason": "Acute asthma exacerbation with wheezing",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2121",
+    "patient_id": "P028",
+    "date": "2026-03-23",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2122",
+    "patient_id": "P028",
+    "date": "2026-06-27",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2123",
+    "patient_id": "P028",
+    "date": "2026-10-02",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2124",
+    "patient_id": "P029",
+    "date": "2026-02-16",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2125",
+    "patient_id": "P029",
+    "date": "2026-04-25",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2126",
+    "patient_id": "P029",
+    "date": "2026-07-01",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2127",
+    "patient_id": "P029",
+    "date": "2026-09-12",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2128",
+    "patient_id": "P030",
+    "date": "2026-03-27",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2129",
+    "patient_id": "P030",
+    "date": "2026-06-20",
+    "type": "emergency",
+    "reason": "Hypertensive urgency with headache",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2130",
+    "patient_id": "P030",
+    "date": "2026-09-15",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2131",
+    "patient_id": "P031",
+    "date": "2025-11-03",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2132",
+    "patient_id": "P031",
+    "date": "2026-04-14",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2133",
+    "patient_id": "P031",
+    "date": "2026-09-16",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2134",
+    "patient_id": "P032",
+    "date": "2025-10-15",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2135",
+    "patient_id": "P032",
+    "date": "2026-03-30",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2136",
+    "patient_id": "P032",
+    "date": "2026-09-16",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2137",
+    "patient_id": "P033",
+    "date": "2025-10-26",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2138",
+    "patient_id": "P033",
+    "date": "2026-04-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2139",
+    "patient_id": "P033",
+    "date": "2026-09-11",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2140",
+    "patient_id": "P034",
+    "date": "2025-08-31",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2141",
+    "patient_id": "P034",
+    "date": "2025-12-10",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2142",
+    "patient_id": "P034",
+    "date": "2026-03-11",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2143",
+    "patient_id": "P034",
+    "date": "2026-06-09",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2144",
+    "patient_id": "P034",
+    "date": "2026-09-11",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2145",
+    "patient_id": "P035",
+    "date": "2025-11-19",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2146",
+    "patient_id": "P035",
+    "date": "2026-02-04",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2147",
+    "patient_id": "P035",
+    "date": "2026-04-18",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2148",
+    "patient_id": "P035",
+    "date": "2026-07-10",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2149",
+    "patient_id": "P035",
+    "date": "2026-09-26",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2150",
+    "patient_id": "P036",
+    "date": "2025-10-14",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2151",
+    "patient_id": "P036",
+    "date": "2025-12-29",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2152",
+    "patient_id": "P036",
+    "date": "2026-03-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2153",
+    "patient_id": "P036",
+    "date": "2026-05-10",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2154",
+    "patient_id": "P036",
+    "date": "2026-07-09",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2155",
+    "patient_id": "P036",
+    "date": "2026-09-22",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2156",
+    "patient_id": "P037",
+    "date": "2026-02-09",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2157",
+    "patient_id": "P037",
+    "date": "2026-04-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2158",
+    "patient_id": "P037",
+    "date": "2026-05-26",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2159",
+    "patient_id": "P037",
+    "date": "2026-07-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2160",
+    "patient_id": "P037",
+    "date": "2026-09-10",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2161",
+    "patient_id": "P038",
+    "date": "2026-03-01",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2162",
+    "patient_id": "P038",
+    "date": "2026-06-24",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2163",
+    "patient_id": "P038",
+    "date": "2026-10-06",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2164",
+    "patient_id": "P039",
+    "date": "2026-01-17",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2165",
+    "patient_id": "P039",
+    "date": "2026-05-13",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2166",
+    "patient_id": "P039",
+    "date": "2026-09-15",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2167",
+    "patient_id": "P040",
+    "date": "2025-08-16",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2168",
+    "patient_id": "P040",
+    "date": "2025-12-26",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2169",
+    "patient_id": "P040",
+    "date": "2026-05-05",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2170",
+    "patient_id": "P040",
+    "date": "2026-09-06",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2171",
+    "patient_id": "P041",
+    "date": "2025-10-10",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2172",
+    "patient_id": "P041",
+    "date": "2025-12-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2173",
+    "patient_id": "P041",
+    "date": "2026-02-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2174",
+    "patient_id": "P041",
+    "date": "2026-05-05",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2175",
+    "patient_id": "P041",
+    "date": "2026-07-08",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2176",
+    "patient_id": "P041",
+    "date": "2026-09-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2177",
+    "patient_id": "P042",
+    "date": "2025-12-07",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2178",
+    "patient_id": "P042",
+    "date": "2026-02-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2179",
+    "patient_id": "P042",
+    "date": "2026-03-27",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2180",
+    "patient_id": "P042",
+    "date": "2026-05-28",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2181",
+    "patient_id": "P042",
+    "date": "2026-07-12",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2182",
+    "patient_id": "P042",
+    "date": "2026-09-06",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2183",
+    "patient_id": "P043",
+    "date": "2025-10-15",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2184",
+    "patient_id": "P043",
+    "date": "2026-01-07",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2185",
+    "patient_id": "P043",
+    "date": "2026-04-02",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2186",
+    "patient_id": "P043",
+    "date": "2026-06-29",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2187",
+    "patient_id": "P043",
+    "date": "2026-09-17",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2188",
+    "patient_id": "P044",
+    "date": "2026-03-07",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2189",
+    "patient_id": "P044",
+    "date": "2026-05-05",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2190",
+    "patient_id": "P044",
+    "date": "2026-07-15",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2191",
+    "patient_id": "P044",
+    "date": "2026-09-10",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2192",
+    "patient_id": "P045",
+    "date": "2026-02-17",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2193",
+    "patient_id": "P045",
+    "date": "2026-03-28",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2194",
+    "patient_id": "P045",
+    "date": "2026-05-09",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2195",
+    "patient_id": "P045",
+    "date": "2026-06-30",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2196",
+    "patient_id": "P045",
+    "date": "2026-08-01",
+    "type": "emergency",
+    "reason": "Hypertensive urgency with headache",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2197",
+    "patient_id": "P045",
+    "date": "2026-09-17",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2198",
+    "patient_id": "P046",
+    "date": "2025-09-21",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2199",
+    "patient_id": "P046",
+    "date": "2026-01-26",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2200",
+    "patient_id": "P046",
+    "date": "2026-05-28",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2201",
+    "patient_id": "P046",
+    "date": "2026-10-03",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2202",
+    "patient_id": "P047",
+    "date": "2025-10-04",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2203",
+    "patient_id": "P047",
+    "date": "2026-01-01",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2204",
+    "patient_id": "P047",
+    "date": "2026-03-29",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2205",
+    "patient_id": "P047",
+    "date": "2026-07-09",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2206",
+    "patient_id": "P047",
+    "date": "2026-10-01",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2207",
+    "patient_id": "P048",
+    "date": "2025-09-24",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2208",
+    "patient_id": "P048",
+    "date": "2026-04-01",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2209",
+    "patient_id": "P048",
+    "date": "2026-10-08",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2210",
+    "patient_id": "P049",
+    "date": "2026-03-19",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2211",
+    "patient_id": "P049",
+    "date": "2026-04-26",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2212",
+    "patient_id": "P049",
+    "date": "2026-05-30",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2213",
+    "patient_id": "P049",
+    "date": "2026-07-14",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2214",
+    "patient_id": "P049",
+    "date": "2026-08-17",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2215",
+    "patient_id": "P049",
+    "date": "2026-09-22",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2216",
+    "patient_id": "P050",
+    "date": "2026-01-18",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2217",
+    "patient_id": "P050",
+    "date": "2026-03-14",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2218",
+    "patient_id": "P050",
+    "date": "2026-04-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2219",
+    "patient_id": "P050",
+    "date": "2026-06-12",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2220",
+    "patient_id": "P050",
+    "date": "2026-07-31",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2221",
+    "patient_id": "P050",
+    "date": "2026-09-19",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2222",
+    "patient_id": "P051",
+    "date": "2025-11-17",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2223",
+    "patient_id": "P051",
+    "date": "2026-04-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2224",
+    "patient_id": "P051",
+    "date": "2026-10-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2225",
+    "patient_id": "P052",
+    "date": "2025-11-10",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2226",
+    "patient_id": "P052",
+    "date": "2026-02-27",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2227",
+    "patient_id": "P052",
+    "date": "2026-06-12",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2228",
+    "patient_id": "P052",
+    "date": "2026-09-25",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2229",
+    "patient_id": "P053",
+    "date": "2026-03-13",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2230",
+    "patient_id": "P053",
+    "date": "2026-06-25",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2231",
+    "patient_id": "P053",
+    "date": "2026-10-03",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2232",
+    "patient_id": "P054",
+    "date": "2025-09-16",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2233",
+    "patient_id": "P054",
+    "date": "2026-01-17",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2234",
+    "patient_id": "P054",
+    "date": "2026-05-18",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2235",
+    "patient_id": "P054",
+    "date": "2026-09-11",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2236",
+    "patient_id": "P055",
+    "date": "2025-08-31",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2237",
+    "patient_id": "P055",
+    "date": "2025-11-21",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2238",
+    "patient_id": "P055",
+    "date": "2026-02-07",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2239",
+    "patient_id": "P055",
+    "date": "2026-04-23",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2240",
+    "patient_id": "P055",
+    "date": "2026-07-10",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2241",
+    "patient_id": "P055",
+    "date": "2026-09-22",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2242",
+    "patient_id": "P056",
+    "date": "2026-03-05",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2243",
+    "patient_id": "P056",
+    "date": "2026-04-14",
+    "type": "emergency",
+    "reason": "Acute decompensated heart failure with dyspnea",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2244",
+    "patient_id": "P056",
+    "date": "2026-05-21",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2245",
+    "patient_id": "P056",
+    "date": "2026-06-29",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2246",
+    "patient_id": "P056",
+    "date": "2026-08-05",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2247",
+    "patient_id": "P056",
+    "date": "2026-09-18",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2248",
+    "patient_id": "P057",
+    "date": "2025-10-12",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2249",
+    "patient_id": "P057",
+    "date": "2026-04-02",
+    "type": "emergency",
+    "reason": "Acute asthma exacerbation with wheezing",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2250",
+    "patient_id": "P057",
+    "date": "2026-09-27",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2251",
+    "patient_id": "P058",
+    "date": "2025-11-08",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2252",
+    "patient_id": "P058",
+    "date": "2026-03-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2253",
+    "patient_id": "P058",
+    "date": "2026-06-12",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2254",
+    "patient_id": "P058",
+    "date": "2026-09-28",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2255",
+    "patient_id": "P059",
+    "date": "2025-09-28",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2256",
+    "patient_id": "P059",
+    "date": "2026-01-01",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2257",
+    "patient_id": "P059",
+    "date": "2026-03-27",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2258",
+    "patient_id": "P059",
+    "date": "2026-06-29",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2259",
+    "patient_id": "P059",
+    "date": "2026-09-29",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2260",
+    "patient_id": "P060",
+    "date": "2025-12-18",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2261",
+    "patient_id": "P060",
+    "date": "2026-05-02",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2262",
+    "patient_id": "P060",
+    "date": "2026-10-02",
+    "type": "emergency",
+    "reason": "Acute decompensated heart failure with dyspnea",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2263",
+    "patient_id": "P061",
+    "date": "2026-02-25",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2264",
+    "patient_id": "P061",
+    "date": "2026-04-19",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2265",
+    "patient_id": "P061",
+    "date": "2026-06-02",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2266",
+    "patient_id": "P061",
+    "date": "2026-08-03",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2267",
+    "patient_id": "P061",
+    "date": "2026-09-26",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2268",
+    "patient_id": "P062",
+    "date": "2025-09-14",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2269",
+    "patient_id": "P062",
+    "date": "2025-12-07",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2270",
+    "patient_id": "P062",
+    "date": "2026-02-12",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2271",
+    "patient_id": "P062",
+    "date": "2026-04-28",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2272",
+    "patient_id": "P062",
+    "date": "2026-07-16",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2273",
+    "patient_id": "P062",
+    "date": "2026-09-29",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2274",
+    "patient_id": "P063",
+    "date": "2025-10-27",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2275",
+    "patient_id": "P063",
+    "date": "2026-03-29",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2276",
+    "patient_id": "P063",
+    "date": "2026-09-10",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2277",
+    "patient_id": "P064",
+    "date": "2026-01-20",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2278",
+    "patient_id": "P064",
+    "date": "2026-05-24",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2279",
+    "patient_id": "P064",
+    "date": "2026-09-22",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2280",
+    "patient_id": "P065",
+    "date": "2026-01-14",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2281",
+    "patient_id": "P065",
+    "date": "2026-04-15",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2282",
+    "patient_id": "P065",
+    "date": "2026-07-03",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2283",
+    "patient_id": "P065",
+    "date": "2026-10-01",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2284",
+    "patient_id": "P066",
+    "date": "2026-03-01",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2285",
+    "patient_id": "P066",
+    "date": "2026-05-22",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2286",
+    "patient_id": "P066",
+    "date": "2026-07-22",
+    "type": "emergency",
+    "reason": "Acute decompensated heart failure with dyspnea",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2287",
+    "patient_id": "P066",
+    "date": "2026-09-30",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2288",
+    "patient_id": "P067",
+    "date": "2025-12-11",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2289",
+    "patient_id": "P067",
+    "date": "2026-04-22",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2290",
+    "patient_id": "P067",
+    "date": "2026-09-10",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2291",
+    "patient_id": "P068",
+    "date": "2025-08-27",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2292",
+    "patient_id": "P068",
+    "date": "2025-12-04",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2293",
+    "patient_id": "P068",
+    "date": "2026-03-19",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2294",
+    "patient_id": "P068",
+    "date": "2026-06-21",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2295",
+    "patient_id": "P068",
+    "date": "2026-10-05",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2296",
+    "patient_id": "P069",
+    "date": "2025-12-15",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2297",
+    "patient_id": "P069",
+    "date": "2026-04-27",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2298",
+    "patient_id": "P069",
+    "date": "2026-09-15",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2299",
+    "patient_id": "P070",
+    "date": "2026-01-31",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2300",
+    "patient_id": "P070",
+    "date": "2026-05-31",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2301",
+    "patient_id": "P070",
+    "date": "2026-09-18",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2302",
+    "patient_id": "P071",
+    "date": "2025-12-17",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2303",
+    "patient_id": "P071",
+    "date": "2026-03-13",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2304",
+    "patient_id": "P071",
+    "date": "2026-06-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2305",
+    "patient_id": "P071",
+    "date": "2026-09-26",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2306",
+    "patient_id": "P072",
+    "date": "2025-12-11",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2307",
+    "patient_id": "P072",
+    "date": "2026-03-22",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2308",
+    "patient_id": "P072",
+    "date": "2026-06-28",
+    "type": "emergency",
+    "reason": "Acute asthma exacerbation with wheezing",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2309",
+    "patient_id": "P072",
+    "date": "2026-10-01",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2310",
+    "patient_id": "P073",
+    "date": "2026-01-15",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2311",
+    "patient_id": "P073",
+    "date": "2026-04-02",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2312",
+    "patient_id": "P073",
+    "date": "2026-06-17",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2313",
+    "patient_id": "P073",
+    "date": "2026-09-09",
+    "type": "emergency",
+    "reason": "Acute decompensated heart failure with dyspnea",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2314",
+    "patient_id": "P074",
+    "date": "2025-12-22",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2315",
+    "patient_id": "P074",
+    "date": "2026-05-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2316",
+    "patient_id": "P074",
+    "date": "2026-09-18",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2317",
+    "patient_id": "P075",
+    "date": "2025-12-11",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2318",
+    "patient_id": "P075",
+    "date": "2026-04-27",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2319",
+    "patient_id": "P075",
+    "date": "2026-09-11",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2320",
+    "patient_id": "P076",
+    "date": "2026-02-09",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2321",
+    "patient_id": "P076",
+    "date": "2026-03-30",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2322",
+    "patient_id": "P076",
+    "date": "2026-05-15",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2323",
+    "patient_id": "P076",
+    "date": "2026-06-14",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2324",
+    "patient_id": "P076",
+    "date": "2026-07-30",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2325",
+    "patient_id": "P076",
+    "date": "2026-09-12",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2326",
+    "patient_id": "P077",
+    "date": "2025-11-30",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2327",
+    "patient_id": "P077",
+    "date": "2026-02-02",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2328",
+    "patient_id": "P077",
+    "date": "2026-04-01",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2329",
+    "patient_id": "P077",
+    "date": "2026-05-25",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2330",
+    "patient_id": "P077",
+    "date": "2026-07-14",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2331",
+    "patient_id": "P077",
+    "date": "2026-09-10",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2332",
+    "patient_id": "P078",
+    "date": "2025-12-07",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2333",
+    "patient_id": "P078",
+    "date": "2026-02-11",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2334",
+    "patient_id": "P078",
+    "date": "2026-04-26",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2335",
+    "patient_id": "P078",
+    "date": "2026-07-12",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2336",
+    "patient_id": "P078",
+    "date": "2026-09-12",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2337",
+    "patient_id": "P079",
+    "date": "2025-09-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2338",
+    "patient_id": "P079",
+    "date": "2025-12-10",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2339",
+    "patient_id": "P079",
+    "date": "2026-03-17",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2340",
+    "patient_id": "P079",
+    "date": "2026-06-19",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2341",
+    "patient_id": "P079",
+    "date": "2026-09-12",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2342",
+    "patient_id": "P080",
+    "date": "2025-12-15",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2343",
+    "patient_id": "P080",
+    "date": "2026-02-16",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2344",
+    "patient_id": "P080",
+    "date": "2026-04-26",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2345",
+    "patient_id": "P080",
+    "date": "2026-07-08",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2346",
+    "patient_id": "P080",
+    "date": "2026-09-04",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2347",
+    "patient_id": "P081",
+    "date": "2025-08-22",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2348",
+    "patient_id": "P081",
+    "date": "2025-12-22",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2349",
+    "patient_id": "P081",
+    "date": "2026-05-02",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2350",
+    "patient_id": "P081",
+    "date": "2026-09-21",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2351",
+    "patient_id": "P082",
+    "date": "2025-09-17",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2352",
+    "patient_id": "P082",
+    "date": "2025-12-16",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2353",
+    "patient_id": "P082",
+    "date": "2026-03-28",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2354",
+    "patient_id": "P082",
+    "date": "2026-06-25",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2355",
+    "patient_id": "P082",
+    "date": "2026-09-17",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2356",
+    "patient_id": "P083",
+    "date": "2025-11-07",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2357",
+    "patient_id": "P083",
+    "date": "2026-04-14",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2358",
+    "patient_id": "P083",
+    "date": "2026-09-23",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2359",
+    "patient_id": "P084",
+    "date": "2025-09-16",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2360",
+    "patient_id": "P084",
+    "date": "2026-03-21",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2361",
+    "patient_id": "P084",
+    "date": "2026-09-26",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2362",
+    "patient_id": "P085",
+    "date": "2026-01-27",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2363",
+    "patient_id": "P085",
+    "date": "2026-03-16",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2364",
+    "patient_id": "P085",
+    "date": "2026-05-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2365",
+    "patient_id": "P085",
+    "date": "2026-06-19",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2366",
+    "patient_id": "P085",
+    "date": "2026-07-30",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2367",
+    "patient_id": "P085",
+    "date": "2026-09-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2368",
+    "patient_id": "P086",
+    "date": "2026-01-21",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2369",
+    "patient_id": "P086",
+    "date": "2026-03-19",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2370",
+    "patient_id": "P086",
+    "date": "2026-05-16",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2371",
+    "patient_id": "P086",
+    "date": "2026-07-15",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2372",
+    "patient_id": "P086",
+    "date": "2026-09-16",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2373",
+    "patient_id": "P087",
+    "date": "2025-11-18",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2374",
+    "patient_id": "P087",
+    "date": "2026-04-10",
+    "type": "emergency",
+    "reason": "Acute asthma exacerbation with wheezing",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2375",
+    "patient_id": "P087",
+    "date": "2026-09-07",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2376",
+    "patient_id": "P088",
+    "date": "2026-02-09",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2377",
+    "patient_id": "P088",
+    "date": "2026-04-27",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2378",
+    "patient_id": "P088",
+    "date": "2026-07-07",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2379",
+    "patient_id": "P088",
+    "date": "2026-09-13",
+    "type": "emergency",
+    "reason": "Acute decompensated heart failure with dyspnea",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2380",
+    "patient_id": "P089",
+    "date": "2026-03-07",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2381",
+    "patient_id": "P089",
+    "date": "2026-05-06",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2382",
+    "patient_id": "P089",
+    "date": "2026-07-15",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2383",
+    "patient_id": "P089",
+    "date": "2026-09-24",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2384",
+    "patient_id": "P090",
+    "date": "2026-02-20",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2385",
+    "patient_id": "P090",
+    "date": "2026-04-14",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2386",
+    "patient_id": "P090",
+    "date": "2026-05-31",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2387",
+    "patient_id": "P090",
+    "date": "2026-07-28",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2388",
+    "patient_id": "P090",
+    "date": "2026-09-19",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2389",
+    "patient_id": "P091",
+    "date": "2025-10-27",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2390",
+    "patient_id": "P091",
+    "date": "2026-01-10",
+    "type": "emergency",
+    "reason": "Acute asthma exacerbation with wheezing",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2391",
+    "patient_id": "P091",
+    "date": "2026-04-06",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2392",
+    "patient_id": "P091",
+    "date": "2026-07-01",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2393",
+    "patient_id": "P091",
+    "date": "2026-09-17",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2394",
+    "patient_id": "P092",
+    "date": "2025-10-20",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2395",
+    "patient_id": "P092",
+    "date": "2025-12-21",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2396",
+    "patient_id": "P092",
+    "date": "2026-02-27",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2397",
+    "patient_id": "P092",
+    "date": "2026-05-08",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2398",
+    "patient_id": "P092",
+    "date": "2026-07-17",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2399",
+    "patient_id": "P092",
+    "date": "2026-09-15",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2400",
+    "patient_id": "P093",
+    "date": "2025-10-21",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2401",
+    "patient_id": "P093",
+    "date": "2025-12-30",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2402",
+    "patient_id": "P093",
+    "date": "2026-03-02",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2403",
+    "patient_id": "P093",
+    "date": "2026-05-12",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2404",
+    "patient_id": "P093",
+    "date": "2026-07-19",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2405",
+    "patient_id": "P093",
+    "date": "2026-09-23",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2406",
+    "patient_id": "P094",
+    "date": "2026-03-08",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2407",
+    "patient_id": "P094",
+    "date": "2026-05-08",
+    "type": "emergency",
+    "reason": "Hypertensive urgency with headache",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2408",
+    "patient_id": "P094",
+    "date": "2026-07-10",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2409",
+    "patient_id": "P094",
+    "date": "2026-09-14",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2410",
+    "patient_id": "P095",
+    "date": "2025-11-15",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2411",
+    "patient_id": "P095",
+    "date": "2026-04-21",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2412",
+    "patient_id": "P095",
+    "date": "2026-10-01",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2413",
+    "patient_id": "P096",
+    "date": "2026-02-11",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2414",
+    "patient_id": "P096",
+    "date": "2026-04-25",
+    "type": "emergency",
+    "reason": "Hypertensive urgency with headache",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2415",
+    "patient_id": "P096",
+    "date": "2026-07-08",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2416",
+    "patient_id": "P096",
+    "date": "2026-10-03",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2417",
+    "patient_id": "P097",
+    "date": "2025-11-07",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2418",
+    "patient_id": "P097",
+    "date": "2026-02-22",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2419",
+    "patient_id": "P097",
+    "date": "2026-06-12",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2420",
+    "patient_id": "P097",
+    "date": "2026-09-29",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2421",
+    "patient_id": "P098",
+    "date": "2025-10-02",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2422",
+    "patient_id": "P098",
+    "date": "2026-01-03",
+    "type": "outpatient",
+    "reason": "Hypertension check and Lipid management visit",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2423",
+    "patient_id": "P098",
+    "date": "2026-03-31",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2424",
+    "patient_id": "P098",
+    "date": "2026-06-23",
+    "type": "emergency",
+    "reason": "Hypertensive urgency with headache",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2425",
+    "patient_id": "P098",
+    "date": "2026-09-13",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2426",
+    "patient_id": "P099",
+    "date": "2026-02-06",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2427",
+    "patient_id": "P099",
+    "date": "2026-03-30",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2428",
+    "patient_id": "P099",
+    "date": "2026-06-01",
+    "type": "emergency",
+    "reason": "Hyperglycemia with polyuria and fatigue",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2429",
+    "patient_id": "P099",
+    "date": "2026-08-02",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2430",
+    "patient_id": "P099",
+    "date": "2026-09-23",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2431",
+    "patient_id": "P100",
+    "date": "2025-11-27",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2432",
+    "patient_id": "P100",
+    "date": "2026-04-25",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2433",
+    "patient_id": "P100",
+    "date": "2026-09-20",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2434",
+    "patient_id": "P101",
+    "date": "2026-03-17",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2435",
+    "patient_id": "P101",
+    "date": "2026-05-19",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2436",
+    "patient_id": "P101",
+    "date": "2026-07-20",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2437",
+    "patient_id": "P101",
+    "date": "2026-09-17",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2438",
+    "patient_id": "P102",
+    "date": "2025-12-06",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2439",
+    "patient_id": "P102",
+    "date": "2026-01-31",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2440",
+    "patient_id": "P102",
+    "date": "2026-03-25",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2441",
+    "patient_id": "P102",
+    "date": "2026-05-28",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2442",
+    "patient_id": "P102",
+    "date": "2026-07-24",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2443",
+    "patient_id": "P102",
+    "date": "2026-09-07",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2444",
+    "patient_id": "P103",
+    "date": "2026-03-18",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2445",
+    "patient_id": "P103",
+    "date": "2026-04-30",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2446",
+    "patient_id": "P103",
+    "date": "2026-06-18",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2447",
+    "patient_id": "P103",
+    "date": "2026-07-31",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2448",
+    "patient_id": "P103",
+    "date": "2026-09-21",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2449",
+    "patient_id": "P104",
+    "date": "2025-12-31",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2450",
+    "patient_id": "P104",
+    "date": "2026-05-18",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2451",
+    "patient_id": "P104",
+    "date": "2026-09-22",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Chen"
+  },
+  {
+    "id": "E2452",
+    "patient_id": "P105",
+    "date": "2025-09-29",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2453",
+    "patient_id": "P105",
+    "date": "2026-03-28",
+    "type": "emergency",
+    "reason": "Hypertensive urgency with headache",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2454",
+    "patient_id": "P105",
+    "date": "2026-09-24",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2455",
+    "patient_id": "P106",
+    "date": "2025-12-03",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2456",
+    "patient_id": "P106",
+    "date": "2026-02-08",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2457",
+    "patient_id": "P106",
+    "date": "2026-04-25",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2458",
+    "patient_id": "P106",
+    "date": "2026-06-29",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2459",
+    "patient_id": "P106",
+    "date": "2026-09-13",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2460",
+    "patient_id": "P107",
+    "date": "2025-10-30",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2461",
+    "patient_id": "P107",
+    "date": "2026-01-21",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2462",
+    "patient_id": "P107",
+    "date": "2026-04-21",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2463",
+    "patient_id": "P107",
+    "date": "2026-07-04",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2464",
+    "patient_id": "P107",
+    "date": "2026-09-22",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2465",
+    "patient_id": "P108",
+    "date": "2026-03-18",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2466",
+    "patient_id": "P108",
+    "date": "2026-05-17",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2467",
+    "patient_id": "P108",
+    "date": "2026-07-21",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2468",
+    "patient_id": "P108",
+    "date": "2026-09-30",
+    "type": "outpatient",
+    "reason": "Lipid management visit",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2469",
+    "patient_id": "P109",
+    "date": "2025-11-22",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2470",
+    "patient_id": "P109",
+    "date": "2026-02-08",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2471",
+    "patient_id": "P109",
+    "date": "2026-04-21",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2472",
+    "patient_id": "P109",
+    "date": "2026-07-12",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2473",
+    "patient_id": "P109",
+    "date": "2026-09-21",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2474",
+    "patient_id": "P110",
+    "date": "2025-11-28",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2475",
+    "patient_id": "P110",
+    "date": "2026-02-26",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2476",
+    "patient_id": "P110",
+    "date": "2026-06-19",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2477",
+    "patient_id": "P110",
+    "date": "2026-09-24",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2478",
+    "patient_id": "P111",
+    "date": "2026-01-17",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2479",
+    "patient_id": "P111",
+    "date": "2026-04-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2480",
+    "patient_id": "P111",
+    "date": "2026-07-11",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2481",
+    "patient_id": "P111",
+    "date": "2026-09-29",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Rivera"
+  },
+  {
+    "id": "E2482",
+    "patient_id": "P112",
+    "date": "2025-11-25",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2483",
+    "patient_id": "P112",
+    "date": "2026-01-29",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2484",
+    "patient_id": "P112",
+    "date": "2026-03-29",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2485",
+    "patient_id": "P112",
+    "date": "2026-05-19",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2486",
+    "patient_id": "P112",
+    "date": "2026-07-20",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2487",
+    "patient_id": "P112",
+    "date": "2026-09-09",
+    "type": "emergency",
+    "reason": "Acute decompensated heart failure with dyspnea",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2488",
+    "patient_id": "P113",
+    "date": "2025-10-11",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2489",
+    "patient_id": "P113",
+    "date": "2025-12-25",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2490",
+    "patient_id": "P113",
+    "date": "2026-03-06",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2491",
+    "patient_id": "P113",
+    "date": "2026-05-09",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2492",
+    "patient_id": "P113",
+    "date": "2026-07-21",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2493",
+    "patient_id": "P113",
+    "date": "2026-09-29",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Lindqvist"
+  },
+  {
+    "id": "E2494",
+    "patient_id": "P114",
+    "date": "2026-02-17",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2495",
+    "patient_id": "P114",
+    "date": "2026-05-30",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up and Hypertension check",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2496",
+    "patient_id": "P114",
+    "date": "2026-09-09",
+    "type": "outpatient",
+    "reason": "Heart failure follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2497",
+    "patient_id": "P115",
+    "date": "2025-09-11",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2498",
+    "patient_id": "P115",
+    "date": "2025-11-21",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2499",
+    "patient_id": "P115",
+    "date": "2026-02-14",
+    "type": "outpatient",
+    "reason": "Asthma follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2500",
+    "patient_id": "P115",
+    "date": "2026-04-25",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2501",
+    "patient_id": "P115",
+    "date": "2026-07-10",
+    "type": "emergency",
+    "reason": "Acute asthma exacerbation with wheezing",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2502",
+    "patient_id": "P115",
+    "date": "2026-09-23",
+    "type": "outpatient",
+    "reason": "Asthma follow-up and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2503",
+    "patient_id": "P116",
+    "date": "2026-03-16",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2504",
+    "patient_id": "P116",
+    "date": "2026-04-30",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2505",
+    "patient_id": "P116",
+    "date": "2026-06-23",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2506",
+    "patient_id": "P116",
+    "date": "2026-08-12",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2507",
+    "patient_id": "P116",
+    "date": "2026-10-04",
+    "type": "outpatient",
+    "reason": "Hypertension check",
+    "provider": "Dr. Okafor"
+  },
+  {
+    "id": "E2508",
+    "patient_id": "P117",
+    "date": "2025-08-28",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2509",
+    "patient_id": "P117",
+    "date": "2026-03-03",
+    "type": "outpatient",
+    "reason": "CKD monitoring and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2510",
+    "patient_id": "P117",
+    "date": "2026-09-15",
+    "type": "outpatient",
+    "reason": "CKD monitoring",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2511",
+    "patient_id": "P118",
+    "date": "2025-10-25",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2512",
+    "patient_id": "P118",
+    "date": "2026-01-16",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2513",
+    "patient_id": "P118",
+    "date": "2026-04-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2514",
+    "patient_id": "P118",
+    "date": "2026-06-28",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2515",
+    "patient_id": "P118",
+    "date": "2026-09-18",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Nakamura"
+  },
+  {
+    "id": "E2516",
+    "patient_id": "P119",
+    "date": "2025-11-18",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2517",
+    "patient_id": "P119",
+    "date": "2026-03-03",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2518",
+    "patient_id": "P119",
+    "date": "2026-06-10",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2519",
+    "patient_id": "P119",
+    "date": "2026-09-27",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and CKD monitoring",
+    "provider": "Dr. Abdi"
+  },
+  {
+    "id": "E2520",
+    "patient_id": "P120",
+    "date": "2025-12-11",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2521",
+    "patient_id": "P120",
+    "date": "2026-04-27",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up and Hypertension check",
+    "provider": "Dr. Patel"
+  },
+  {
+    "id": "E2522",
+    "patient_id": "P120",
+    "date": "2026-09-22",
+    "type": "outpatient",
+    "reason": "Type 2 diabetes follow-up",
+    "provider": "Dr. Patel"
+  }
+]
