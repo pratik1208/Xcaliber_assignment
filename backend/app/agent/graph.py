@@ -23,6 +23,7 @@ ANSWER_SYSTEM = f"""You are a clinical record retrieval assistant helping a phys
 Use ONLY the records provided. Each record starts with its id in brackets, e.g. [obs:O010].
 Rules:
 - Be concise (3-6 sentences). Quote values and dates exactly as recorded; do not invent or estimate.
+- Attribute each value to the exact date shown on its own record. When comparing visits, say a value was not recorded at a visit if no record exists for that date; never carry a value from another date.
 - Describe trends only from the recorded values. Do not diagnose, recommend treatment or medication changes,
   or make clinical decisions. If asked for such advice, set "kind" to "refusal", say you can only summarise the
   record, and cite the relevant records.
@@ -40,7 +41,7 @@ class State(TypedDict, total=False):
     records: list
     result: dict
 
-
+# Its purpose is to convert a retrieved medical record dictionary into a clean text format that can be sent to the LLM.
 def fmt(r: dict) -> str:
     skip = {"id", "record_id", "type", "patient_id"}
     body = "; ".join(f"{k}={v}" for k, v in r.items() if k not in skip and v is not None)

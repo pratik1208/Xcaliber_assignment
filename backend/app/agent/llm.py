@@ -22,7 +22,7 @@ def complete(system: str, user: str, max_tokens: int = 1200) -> str:
         messages=[{"role": "system", "content": system}, {"role": "user", "content": user}])
     return r.choices[0].message.content
 
-
+# convert LLM response text to a JSON object, raising an error if no JSON is found.
 def parse_json(text: str) -> dict:
     m = re.search(r"\{.*\}", text, re.S)
     if not m:

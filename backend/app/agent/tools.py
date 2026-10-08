@@ -44,7 +44,7 @@ def get_procedures(patient_id, since=None):
     sql = "SELECT * FROM procedure WHERE patient_id = :p AND (CAST(:s AS date) IS NULL OR date >= CAST(:s AS date)) ORDER BY date DESC"
     return _tag(query(sql, p=patient_id, s=since), "procedure", "proc")
 
-
+# find the most relevant notes for a query
 def search_notes(patient_id, text, k=4):
     res = get_collection().query(query_texts=[text], n_results=k, where={"patient_id": patient_id})
     out = []
@@ -53,14 +53,14 @@ def search_notes(patient_id, text, k=4):
                     "encounter_id": meta["encounter_id"], "text": doc})
     return sorted(out, key=lambda r: r["date"])
 
-
+# retrieve every note belonging to a specific patient.
 def get_all_notes(patient_id):
     res = get_collection().get(where={"patient_id": patient_id})
     out = [{"id": i, "record_id": f"note:{i}", "type": "note", "date": m["date"], "encounter_id": m["encounter_id"], "text": d}
            for i, d, m in zip(res["ids"], res["documents"], res["metadatas"])]
     return sorted(out, key=lambda r: r["date"])
 
-
+# This function is used to take a citation ID such as obs:O010 or note:N003 and retrieve the actual underlying record from the database/ChromaDB
 def get_record(record_id, patient_id):
     """Resolve a cited record_id back to the stored record (patient-scoped)."""
     kind, _, rid = record_id.partition(":")
